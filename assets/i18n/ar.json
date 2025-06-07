@@ -1,0 +1,14 @@
+{
+    "hello": "مرحبا",
+    "welcome": "مرحبًا بك في الشاشة الرئيسية",
+    "second_page_welcome": "مرحبًا بك في الشاشة الثانية",
+    "go_to_second": "اذهب إلى الصفحة الثانية",
+    "english": "الإنجليزية",
+    "spanish": "الإسبانية",
+    "arabic": "العربية",
+    "footer_text": "© ٢٠٢٥ تطبيقي فلاتر",
+    "profile": "الملف الشخصي",
+    "settings": "الإعدادات",
+    "logout": "تسجيل الخروج",
+    "flutter_app":"Flutter App"
+}

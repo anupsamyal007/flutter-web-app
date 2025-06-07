@@ -1,0 +1,14 @@
+{
+    "hello": "Hello",
+    "welcome": "Welcome to Home Screen",
+    "second_page_welcome": "Welcome to Second Screen",
+    "go_to_second": "Go to Second Page",
+    "english": "English",
+    "spanish": "Español",
+    "arabic": "العربية",
+    "footer_text": "© 2025 My Flutter App",
+    "profile":"Profile",
+    "settings":"Settings",
+    "logout":"Logout",
+    "flutter_app":"Flutter App"
+}
